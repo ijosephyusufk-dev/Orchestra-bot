@@ -1,1 +1,5 @@
-# Orchestra-bot
+# Easy to use dude
+
+```lua
+loadstring(game:HttpGet(""))()
+```
